@@ -15,7 +15,9 @@ Open Documentation: Detailed documentation about the project, including usage in
 You are welcome to contribute to the project in various ways:
 
 >Adding new images of fauna species from Rio Grande do Sul.
+
 >Improving existing classification algorithms.
+
 >Reporting bugs or suggesting new features.
 
 # How to Contribute
